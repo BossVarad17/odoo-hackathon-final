@@ -13,6 +13,10 @@
 GlobeTrotter is a next-generation, full-stack travel planning platform designed for individuals, teams, and organizations. It leverages AI, real-time collaboration, and modern UX to deliver a seamless, end-to-end trip planning experience. Built with enterprise-grade best practices, GlobeTrotter is scalable, secure, and extensible for both personal and professional use cases.
 
 ---
+> 🧑‍💻 **My Role — Varad Vekariya**
+> I built the real-time collaboration system and role-based access control, along with the secure backend services — JWT authentication, REST APIs, and the PostgreSQL/Prisma data layer. I also guided the team's technical decisions during the hackathon as the more experienced member of the group.
+> [GitHub](https://github.com/BossVarad17) · [LinkedIn](https://www.linkedin.com/in/varad-vekariya/)
+---
 
 ## Table of Contents
 - [Features](#features)
